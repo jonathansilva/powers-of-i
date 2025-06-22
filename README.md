@@ -1,8 +1,8 @@
 # Potências de i
 
-Desenvolvido inicialmente como aplicativo mobile ( Java ) em 2014, com o objetivo de auxiliar no estudo de Potências de i ( Números complexos ) no último ano do ensino médio
+Desenvolvido inicialmente como aplicativo mobile para Android ( Java ) em 2014, com o objetivo de auxiliar no estudo de Potências de i ( Números complexos ) no último ano do ensino médio
 
-> Agora em Rust, rodando somente no terminal
+> Agora, somente no terminal
 
 **Requisitos**
 
@@ -17,9 +17,9 @@ Para gerar o executável no modo release, use o comando `cargo run --release`
 
 *Rust ( terminal )*
 
-![Powers of i](https://github.com/user-attachments/assets/c35d0a7d-27c4-47ab-91e5-faebb3a1cb30)
+![Powers of i](https://github.com/jonathansilva/powers-of-i/blob/master/screenshots/terminal.png?raw=true)
 
-*2014*
+*2014 ( mobile )*
 
-![Powers of i - antigo - 1](https://github.com/user-attachments/assets/8fd71502-19d2-4c21-8a3d-e7e8de8fd537)
-![Powers of i - antigo - 2](https://github.com/user-attachments/assets/cb7fd95c-79fc-4d44-bf67-5eef723361d3)
+![Powers of i - mobile - 1](https://github.com/jonathansilva/powers-of-i/blob/master/screenshots/mobile-1.jpg?raw=true)
+![Powers of i - mobile - 2](https://github.com/jonathansilva/powers-of-i/blob/master/screenshots/mobile-2.jpg?raw=true)
